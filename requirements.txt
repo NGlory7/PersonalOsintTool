@@ -1,0 +1,4 @@
+httpx>=0.27.0
+rich>=13.7.0
+phonenumbers>=8.13.0
+beautifulsoup4>=4.12.0
